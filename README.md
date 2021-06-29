@@ -1,5 +1,5 @@
 # Video-call-app
-This is an Agora one-to-one video call app  built using python. 
+This is a one-to-one video call app  built using python and Agora SDK. 
 Two people can connect in a channel using the App-id from agora.io
 
 Python is very convenient to work with. It is High level, Interpreted, Object-oriented, Interactive, Modular, Dynamic, Portable and Extensible in C++ & C.
