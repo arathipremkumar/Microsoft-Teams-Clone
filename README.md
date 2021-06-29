@@ -10,7 +10,7 @@ Its slow execution speed and large memory consumption makes it weak in mobile co
 ![image](https://user-images.githubusercontent.com/57580997/123751847-cc2bfa80-d8d5-11eb-9a94-7f38936259d9.png)
 
 
-#### Source of code
+#### Reference
 https://github.com/AgoraIO-Community/Agora-Python-QuickStart/tree/master/basic_one_to_one_video
 
 ### Installation
