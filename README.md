@@ -1,10 +1,10 @@
 # Video-call-app
 This is a one-to-one video call app  built in python using Agora SDK. 
-Two people can connect in a channel using the App-id from agora.io
+Two people can connect in a channel using the App-id from agora.io.
 
 Python is very convenient to work with. It is High level, Interpreted, Object-oriented, Interactive, Modular, Dynamic, Portable and Extensible in C++ & C.
-Its advantages are that its easy to read and write,low maintainance cost, no harms for the software bugs  and it also allows integration with other languages.
-Its slow execution speed and large memory consumption makes it weak in mobile computing. But,as my task is to create an application that works on the web, python is a good option.
+Its advantages are that its easy to read and write, low maintainance cost, no harms for the software bugs  and it also allows integration with other languages.
+Its slow execution speed and large memory consumption makes it weak in mobile computing. But, as my task is to create an application that works on the web, python is a good option.
 
 ### Output of project in action
 ![image](https://user-images.githubusercontent.com/57580997/123751847-cc2bfa80-d8d5-11eb-9a94-7f38936259d9.png)
