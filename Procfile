@@ -1,0 +1,1 @@
+web: gunicorn one2one:app --log-file - 
