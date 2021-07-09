@@ -10,7 +10,7 @@ It's slow execution speed and large memory consumption makes it weak in mobile c
 ![image](https://user-images.githubusercontent.com/57580997/125112749-337f5100-e105-11eb-8b68-4dfe68bf12fe.png)
 
 
-#### Reference
+### References
 * https://github.com/AgoraIO-Community/Agora-Python-QuickStart/tree/master/basic_one_to_one_video
 * https://github.com/ajb413/python-desktop-chat-application
 
@@ -28,7 +28,7 @@ It's slow execution speed and large memory consumption makes it weak in mobile c
 
 * PyQt5
 
-*PubNub
+* PubNub
 
 ### How to get Agora App-id
 * Create a developer account at agora.io.
