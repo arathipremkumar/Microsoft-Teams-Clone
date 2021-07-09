@@ -1,5 +1,5 @@
-# Video-call-app
-This is a simple one-to-one video call app  built in python using Agora SDK. 
+# Microsoft-Teams-Demo
+Microsoft-Teams-Demo is a simple one-to-one video call app  built in python using Agora SDK. 
 Two people can connect in a channel using the App-id from agora.io. Live chat is incorporated using PubNub. An additional screen recording feature is also availabe.
 
 Python is very convenient to work with. It is High level, Interpreted, Object-oriented, Interactive, Modular, Dynamic, Portable and Extensible in C++ & C.
