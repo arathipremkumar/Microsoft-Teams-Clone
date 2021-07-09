@@ -441,9 +441,7 @@ class MyWindow(QtWidgets.QMainWindow, MainWindow.Ui_MainWindow):
             return
 
         # self.rtc.initialize(self.appIdEdit.text()) to take appid as input
-        # reads appid taken from Agora's official site and is stored in 'appid.txt'
-        # f = open('appid.txt')
-        # lines = f.read()
+        
         self.rtc.initialize('............ENTER YOUR AGORA APP ID HERE............', None, agorartc.AREA_CODE_GLOB & 0xFFFFFFFF)
 
         self.rtc.enableVideo()
