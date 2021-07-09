@@ -34,13 +34,13 @@ It's slow execution speed and large memory consumption makes it weak in mobile c
 * Create a developer account at agora.io.
 * Navigate in the dashboard tree on the left to Projects > Project List.
 * Copy the app ID that you obtained from the dashboard into  line 447 of one2one.py line 447. 
-  self.rtc.initialize('............ENTER YOUR AGORA APP ID HERE............', None, agorartc.AREA_CODE_GLOB & 0xFFFFFFFF)
+* self.rtc.initialize('............ENTER YOUR AGORA APP ID HERE............', None, agorartc.AREA_CODE_GLOB & 0xFFFFFFFF)
 
 ### How to get PubNub publish key and subscription key
 * First make a free PubNub account to instantly get API keys. It's free up to 1 million messages per month, forever.
 * Copy and paste your free PubNub API keys onto line 340 of one2one.py.
-  pnconfig.publish_key = '............ENTER YOUR PUBNUB PUBLISH KEY HERE............'
-  pnconfig.subscribe_key = '............ENTER YOUR PUBNUB SUBSCRIBE KEY HERE............'
+* pnconfig.publish_key = '............ENTER YOUR PUBNUB PUBLISH KEY HERE............'
+* pnconfig.subscribe_key = '............ENTER YOUR PUBNUB SUBSCRIBE KEY HERE............'
 
 ### Author
 
