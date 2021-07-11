@@ -19,7 +19,7 @@ It's slow execution speed and large memory consumption makes it weak in mobile c
 * Built the minimum required feature - One-to-One Video Call using Agora
 ![image](https://user-images.githubusercontent.com/57580997/125207779-d2de4880-e2ab-11eb-9821-f5fc51007677.png)
 
-<img width="500" alt="firstpic" src="https://user-images.githubusercontent.com/57580997/125207392-b6411100-e2a9-11eb-9cda-8794682324ba.png">
+<img width="500" alt="firstpic" src="https://user-images.githubusercontent.com/57580997/125207779-d2de4880-e2ab-11eb-9821-f5fc51007677.png">
 
 #### Sprint 3
 * Added Screen Recording feature.
