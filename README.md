@@ -17,16 +17,13 @@ It's slow execution speed and large memory consumption makes it weak in mobile c
 #### Sprint 2
 * Mentors helped with information on SDK s like Agora and Web rtc.
 * Built the minimum required feature - One-to-One Video Call using Agora
-![image](https://user-images.githubusercontent.com/57580997/125207779-d2de4880-e2ab-11eb-9821-f5fc51007677.png)
-
-<img width="500" alt="firstpic" src="https://user-images.githubusercontent.com/57580997/125207779-d2de4880-e2ab-11eb-9821-f5fc51007677.png">
+  <img width="500" alt="first ss" src="https://user-images.githubusercontent.com/57580997/125207968-67957600-e2ad-11eb-855e-b7810b47c328.png">
 
 #### Sprint 3
 * Added Screen Recording feature.
 * Faced bugs on incorporating the new feature to the existing.
 * As per the instruction of mentors, started documentation of the project in GitHub.
-![image](https://user-images.githubusercontent.com/57580997/125207733-7f6bfa80-e2ab-11eb-9348-7f20a3d333e7.png)
-<img width="500" alt="firstpic" src="https://user-images.githubusercontent.com/57580997/125207733-7f6bfa80-e2ab-11eb-9348-7f20a3d333e7.png">
+  <img width="500" alt="sec ss" src="https://user-images.githubusercontent.com/57580997/125208039-ca870d00-e2ad-11eb-95d9-fc30587e1f52.png">
 
 #### Sprint 4
 * Worked on User Interface.
