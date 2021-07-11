@@ -42,6 +42,32 @@ It's slow execution speed and large memory consumption makes it weak in mobile c
 * pnconfig.publish_key = '............ENTER YOUR PUBNUB PUBLISH KEY HERE............'
 * pnconfig.subscribe_key = '............ENTER YOUR PUBNUB SUBSCRIBE KEY HERE............'
 
+## Agile Project Management Methodology
+
+### Sprint Calendar
+
+#### Sprint 1
+* Did Research on requirements and resources.
+* Decided to build a Desktop Teams Clone in Python
+
+#### Sprint 2
+* Mentors helped with information on SDK s like Agora and Web rtc.
+* Built the minimum required feature - One-to-One Video Call using Agora
+
+#### Sprint 3
+* Added Screen Recording feature.
+* Faced bugs on incorporating the new feature to the existing.
+* As per the instruction of mentors, started documentation of the project in GitHub.
+
+#### Sprint 4
+* Worked on User Interface.
+* Faced bugs in designing UI with PyQt5.
+* Incorporated Live chat application to teams clone.
+* Fixed the bugs faced in sprint 3 and 4.
+* Completed final documentation
+* Created final video for submission.
+
+
 ### Author
 
 Arathi Premkumar
