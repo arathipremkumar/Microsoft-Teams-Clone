@@ -26,6 +26,7 @@ It's slow execution speed and large memory consumption makes it weak in mobile c
 * Faced bugs on incorporating the new feature to the existing.
 * As per the instruction of mentors, started documentation of the project in GitHub.
 ![image](https://user-images.githubusercontent.com/57580997/125207733-7f6bfa80-e2ab-11eb-9348-7f20a3d333e7.png)
+<img width="500" alt="firstpic" src="https://user-images.githubusercontent.com/57580997/125207733-7f6bfa80-e2ab-11eb-9348-7f20a3d333e7.png">
 
 #### Sprint 4
 * Worked on User Interface.
