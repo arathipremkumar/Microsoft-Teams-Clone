@@ -159,14 +159,14 @@ class Ui_MainWindow(object):
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
         # Set window label
-        MainWindow.setWindowTitle(_translate("MainWindow", "vedio call"))
+        MainWindow.setWindowTitle(_translate("MainWindow", "video call"))
         # Set label display text
         self.label.setText(_translate("MainWindow", "Channel Name:"))
         self.label_2.setText(_translate("MainWindow", "Name:"))
         # Set button display text
         self.joinButton.setText(_translate("MainWindow", "join"))
         self.leaveButton.setText(_translate("MainWindow", "leave"))
-        self.videoButton.setText(_translate("MainWindow", "Turn Off Vedio"))
+        self.videoButton.setText(_translate("MainWindow", "Turn Off Video"))
         self.AudioButton.setText(_translate("MainWindow", "Turn Off Audio"))
         self.screenrecButton.setText(_translate("MainWindow", "Screen Recording"))
         self.sendButton.setText(_translate("MainWindow", "Send"))
