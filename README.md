@@ -72,7 +72,7 @@ It's slow execution speed and large memory consumption makes it weak in mobile c
 ### Video Demo
 * https://youtu.be/hvQGCZyHUs0
 
-### Download and Install the Desktop app from here
+### Download and Install the Microsoft Teams Clone Desktop app from here
 * https://drive.google.com/file/d/1H_uOuaVfsVxybPMR_O020uNNkWIPF4zQ/view?usp=sharing
 
 ### Author
