@@ -69,6 +69,12 @@ It's slow execution speed and large memory consumption makes it weak in mobile c
 * pnconfig.publish_key = '............ENTER YOUR PUBNUB PUBLISH KEY HERE............'
 * pnconfig.subscribe_key = '............ENTER YOUR PUBNUB SUBSCRIBE KEY HERE............'
 
+### Video Demo
+* https://youtu.be/hvQGCZyHUs0
+
+### Download and Install the Desktop app from here
+* https://drive.google.com/file/d/1H_uOuaVfsVxybPMR_O020uNNkWIPF4zQ/view?usp=sharing
+
 ### Author
 
 Arathi Premkumar
